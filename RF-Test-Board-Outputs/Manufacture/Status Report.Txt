@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RF-Test-Board-Pcb.PcbDoc]
+   Generated File[RF-Test-Board-Pcb.TXT]
+   Generated File[RF-Test-Board-Pcb.LDP]
+   Generated File[RF-Test-Board-Pcb.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:45:29 On 23.11.2020
