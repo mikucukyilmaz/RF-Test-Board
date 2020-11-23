@@ -1,5 +1,4 @@
 # RF-Test-Board
- RF Test Board for UWB PA and LNA.
 ![RF-Test-Board](RF-Test-Board.PNG)
 
 | # | Part Number| Description | Manufacturer | Type |
